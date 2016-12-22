@@ -1,0 +1,10 @@
+<?xml version='1.0' standalone='yes'?>
+<upper_limit_bands>
+  <upper_limit_band>
+    <band>1.0</band>
+    <band_vetoed>0</band_vetoed>
+    <freq>1322.0</freq>
+    <injections>1000</injections>
+    <injections_FDR>0.047</injections_FDR>
+    <job>0</job>
+    <loudest_nonvetoed_template>

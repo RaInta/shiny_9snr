@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<setup>
+ <target comment="G111.7">
+  <right_ascension comment="350.87 degrees ">6.12377129663</right_ascension>
+  <declination comment="58.81 degrees ">1.02645722192</declination>
+  <spindown_age comment="Same as est. SNR age: 0.30 kyr ">9467280000.0</spindown_age>
+  <distance comment="3.30 kpc ">1.0182744825e+20</distance>
+  <moment_of_inertia comment="Same as Cas A">1.0e38</moment_of_inertia>
+  <min_braking comment="Same as Cas A">2</min_braking>
+  <max_braking comment="Same as Cas A">7</max_braking>
+ </target>
+ <search comment="Search parameters">
+  <freq comment="Lower frequency bound">91</freq>
+  <band comment=" Frequency band">482</band>
+  <max_mismatch comment="Same as Cas A">0.2</max_mismatch>
+  <span_time comment="From post.nb">729944</span_time>
+  <keep_threshold comment="1 in a million">33.3768</keep_threshold>
+  <rng_med_window comment="Same as Cas A">50</rng_med_window>
+  <ephem_year comment="Range for S6 SFTs">09-11-DE405</ephem_year>
+ </search>
+ <upper_limit comment="Parameters of the upper limits">
+  <veto_thresh comment="Standard deviations">7</veto_thresh>
+  <band comment="double Cas A">1.0</band>
+  <false_dismissal comment="Same as Cas A">0.05</false_dismissal>
+  <num_injections comment="Same as Cas A">6000</num_injections>
+ </upper_limit>
+</setup>
